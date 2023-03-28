@@ -1,0 +1,265 @@
+
+*{
+    margin: o;padding: o;border: none;
+  
+}
+#a{
+    width: 200px;
+    height: 60px;
+    margin-left:-30px;
+    margin-top: 45px;
+}
+#gua{
+    font-size: 11.5px;
+    color:#FC7070;
+    margin-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h3{
+    margin-top: 25px;
+    font-style:italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    margin-left: 150px;
+    color: #776b6b;
+
+}
+#h31{
+    font-style:italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    margin-left: 300px;
+    margin-top: -7px;
+    color:#776b6b;
+
+    
+
+
+}
+i.bi.bi-cart::before{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 90px;
+    
+}
+#re{
+      margin-left: 125px;
+      margin-top: -27px;
+}
+div.container-fluid{
+    background-color:#D5232A;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    padding: 0;
+   
+    
+    
+
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    background:#D5232A;
+    height:20px;
+    margin-top: 30px;
+    
+    
+
+}
+input.form-control.me-2{
+    border-radius: 0;
+    background-color: #AD1319;
+    border: none;
+    outline: none;
+    height:30px ;
+    margin-top: 15px;
+    
+    
+    height: 50px;
+    position: relative;
+    right: 60px;
+    z-index: 10;
+    
+    }
+div#navbarSupportedContent.collapse.navbar-collapse{
+height: 50px;
+padding: 0;
+
+
+}
+div#carouselExampleAutoplaying.carousel.slide{
+width:1370px;
+margin-left:-117px;
+margin-top:30px
+}
+#shp{
+position: relative;
+top: 450px;
+left: 80px;
+background-color: #D5242B;
+color: white;
+width: 150px;
+height: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#shp:hover{
+background-color: black;
+}
+#shp1:hover{
+background-color: black;
+}
+#shp2:hover{
+background-color: black;
+}
+
+#shp2{
+background-color: #D5242B;
+color: white;
+width: 150px;
+height: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+top:400px;
+left:80px
+}
+#shp1{
+background-color: #D5242B;
+color: white;
+width: 150px;
+height: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+top:400px;
+left:80px
+}
+h1{
+position: relative;
+top: 400px;
+left:80px;
+color:#EFEFEF;
+font-family:'Times New Roman', Times, serif
+}
+#des{
+position: relative;
+top:830px;
+left:-20px
+}
+#hev{
+position: relative;
+top:350px
+}
+#new{
+background-color:rgb(247, 246, 246);
+width: 1400px;
+margin-left: -150px;
+}
+#prv{
+position: relative;
+left: -110px;
+background-color: #D5232A;
+border-radius: 17px;
+}
+#nxt{
+position: relative;
+right: -110px;
+background-color: #D5232A;
+border-radius: 17px;
+}
+#view{
+width: 300px;
+height:60px;
+border: 1px solid red;
+color: red;
+margin-left: 550px;
+margin-top: 50px;
+background-color:rgb(247, 246, 246) ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#viewthis{
+width: 250px;
+height:60px;
+margin-left: 50px;
+color:white;
+
+background-color:#D5242B ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#viewthis:hover{
+background-color: black;
+
+}
+
+#view:hover{
+background-color: red;
+color: white;
+}
+.form-control.me-2::placeholder{
+color: white;
+}
+.img-wrapper {
+display: inline-block;
+overflow: hidden;
+margin-top: 80px;
+margin-left: 55px;
+
+
+}
+
+.img-wrapper img {
+transition: transform 2s ;
+
+vertical-align: middle;
+position: relative;
+
+}
+
+
+.img-wrapper img:hover {
+transform:scale(1.1);
+
+}
+
+#vie{
+width:150px;
+height:50px;
+background-color:#D5242B ;
+color: white;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size: 13px;
+margin-top: -80px;
+margin-left: 230px;
+position: absolute;
+}
+#des{
+font-family:'Times New Roman', Times, serif;
+color:white;
+margin-top: -480px;
+margin-left: 100px;
+font-size: 30px;
+}
+#Leh{
+font-family:'Times New Roman', Times, serif;
+color:white;
+margin-top: -530px;
+margin-left: 150px;
+font-size: 30px;
+}
+#our{
+text-align:center;
+font-family:'Times New Roman', Times, serif;
+margin-top: 550px;
+margin-left: 50px;
+font-size: 30px;
+letter-spacing: 0.3em;
+}
+#bride{
+height: 600px;
+margin-top: 40px;
+margin-left: 100px;
+}
+#text{
+margin-top: 20px;
+margin-left: 52px;
+width: 200px;
+line-height: 28px;
+}
+
